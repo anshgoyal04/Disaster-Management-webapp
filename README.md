@@ -10,3 +10,14 @@
   <li>JavaScript Front-End & Back-end</li>
   <li>Knapsack Algorithm</li>
 </ul>
+<p>The Advanced Intelligence Management (A.I.M.) Disaster Management project endeavours to address 
+
+the critical need for efficient disaster response and management through the development of a 
+
+sophisticated web-based platform.<br>The frontend of the platform is constructed using HTML and CSS, emphasizing usability and clarity in 
+
+design to ensure accessibility for all stakeholders involved in disaster management operations. JavaScript 
+
+serves as the backbone of the backend, enabling real-time communication and seamless integration with 
+
+frontend elements.</p>
